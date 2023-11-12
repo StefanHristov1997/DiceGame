@@ -22,7 +22,6 @@ Finally, the game compares the results and prints the winner. </strong> </br>
 2. I have made a separate Game class that accepts as parameters the number of dice and rounds, having set them to 3 dice and 5 rounds into the constructor of the class.</br>
 3. A play() method is also defined in the class, which accepts the name of the player and his chosen number.</br>
 4. The purpose of the method is to implement the logic of the game, recreating the number of rounds and the number of dice with two for loops. For each round, the randomly selected dice number is stored in an array, then printed, representing the values ​​of the dice in the specified round. </br>
-</br>
 5. Each dice value is then compared to the player's chosen number, and if a match is made, his points are increased. </strong>
 
 ### Photos
