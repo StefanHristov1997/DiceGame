@@ -31,6 +31,19 @@ Finally, the game compares the results and prints the winner. </strong> </br>
 
 ### Photos
 The moment for choose your number: </br>
-![image](https://github.com/StefanHristov1997/Simple_Dice_Game/assets/133797718/19a8fdf9-a73b-411a-aa54-709cf2288c16)
+![image](https://github.com/StefanHristov1997/Simple_Dice_Game/assets/133797718/19a8fdf9-a73b-411a-aa54-709cf2288c16) </br>
+
+Photo of some of the rounds: </br>
+![image](https://github.com/StefanHristov1997/Simple_Dice_Game/assets/133797718/839c1824-0b77-44cf-bc93-103c5aefcb3c) </br>
+
+A picture of the final score of the player's game: </br>
+![image](https://github.com/StefanHristov1997/Simple_Dice_Game/assets/133797718/0586a134-6316-4cfc-9242-f0f4e33b4ba2) </br>
+
+A photo of some of the computer rounds: </br>
+![image](https://github.com/StefanHristov1997/Simple_Dice_Game/assets/133797718/eb5b925d-75ed-4929-a567-a87f24db8b9b) </br>
+
+
+
+
 
 
