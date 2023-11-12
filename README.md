@@ -42,9 +42,7 @@ A picture of the final score of the player's game: </br>
 A photo of some of the computer rounds: </br>
 ![image](https://github.com/StefanHristov1997/Simple_Dice_Game/assets/133797718/11036d6a-e8c4-49ae-8f49-db5b994e0c9e) </br>
 
-
-</br>
-Photo from the game result:
+Photo from the game result: </br>
 ![image](https://github.com/StefanHristov1997/Simple_Dice_Game/assets/133797718/b3be912e-4744-497b-8481-1bd299e8af72)
 
 
