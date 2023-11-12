@@ -16,3 +16,9 @@ The program shuffles the dice and rolls them. </br>
 The game is set up to have 3 dice and 5 rounds, so if the number you pick equals one of the numbers on the dice, your points increase. </br>
 After your 5 rounds it's time for the computer to play and it also picks a random number and repeats the steps. </br>
 Finally, the game compares the results and prints the winner. </strong> </br>
+
+### Solution description
+<strong> For first step of the solution for this problem, I have made a separate Game class that accepts as parameters the number of dice and rounds, having set them to 3 dice and 5 rounds into the constructor of the class. </br>
+A play() method is also defined in the class, which accepts the name of the player and his chosen number. </br>
+The purpose of the method is to implement the logic of the game, recreating the number of rounds and the number of dice with two for loops. For each round, the randomly selected dice number is stored in an array, then printed, representing the values ​​of the dice in the specified round. </br>
+Each die value is then compared to the player's chosen number, and if a match is made, his points are increased. </strong>
