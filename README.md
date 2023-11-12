@@ -31,5 +31,6 @@ Finally, the game compares the results and prints the winner. </strong> </br>
 
 ### Photos
 The moment for choose your number: </br>
-<img src="https://github.com/StefanHristov1997/Simple_Dice_Game/assets/133797718/9c4f9428-83d2-4d6d-8ae3-054cd5b8da38"/>
+![image](https://github.com/StefanHristov1997/Simple_Dice_Game/assets/133797718/19a8fdf9-a73b-411a-aa54-709cf2288c16)
+
 
