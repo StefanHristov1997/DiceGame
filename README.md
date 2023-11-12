@@ -1,4 +1,4 @@
-# Simple_Dice_Game :
+# Simple_Dice_Console_Game :
 <strong> Hello, in my free time i decided to create a simple dice console game. </strong> </br>
 </br>
 <img align ="center_right" src ="https://github.com/StefanHristov1997/Simple_Dice_Game/assets/133797718/e2bd6f65-ae2f-4246-b4d7-f2e9654cca45" width= "200" higth="200" /> </br>
