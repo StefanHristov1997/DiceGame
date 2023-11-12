@@ -30,6 +30,6 @@ Finally, the game compares the results and prints the winner. </strong> </br>
 5. Each dice value is then compared to the player's chosen number, and if a match is made, his points are increased. </strong>
 
 ### Photos
-The moment for choose your number:
-<img src="https://github.com/StefanHristov1997/Simple_Dice_Game/assets/133797718/9c4f9428-83d2-4d6d-8ae3-054cd5b8da38" width = "300" height ="300" />
+The moment for choose your number: </br>
+<img src="https://github.com/StefanHristov1997/Simple_Dice_Game/assets/133797718/9c4f9428-83d2-4d6d-8ae3-054cd5b8da38"/>
 
