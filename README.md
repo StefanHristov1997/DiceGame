@@ -34,13 +34,13 @@ Finally, the game compares the results and prints the winner. </strong> </br>
 ![image](https://github.com/StefanHristov1997/Simple_Dice_Game/assets/133797718/2cd2f11f-11bb-41c3-a86b-2a69b4c77557) </br>
 
 Photo of some of the rounds: </br>
-![image](https://github.com/StefanHristov1997/Simple_Dice_Game/assets/133797718/68a33d3c-70b2-4d58-9784-3d20a0a215cb) </br>
+![image](https://github.com/StefanHristov1997/Simple_Dice_Game/assets/133797718/482859c0-3a9e-4d4c-8846-d2a04e019cdc) </br>
 
 A picture of the final score of the player's game: </br>
 ![image](https://github.com/StefanHristov1997/Simple_Dice_Game/assets/133797718/929203ef-1cd8-4bc8-8b8b-51443110d5b0) </br>
 
 A photo of some of the computer rounds: </br>
-![image](https://github.com/StefanHristov1997/Simple_Dice_Game/assets/133797718/11036d6a-e8c4-49ae-8f49-db5b994e0c9e) </br>
+![image](https://github.com/StefanHristov1997/Simple_Dice_Game/assets/133797718/01cbe188-8b3a-4b52-a074-9f399181ab8f) </br>
 
 Photo from the game result: </strong> </br>
 ![image](https://github.com/StefanHristov1997/Simple_Dice_Game/assets/133797718/b3be912e-4744-497b-8481-1bd299e8af72)
